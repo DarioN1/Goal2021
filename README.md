@@ -2,14 +2,11 @@ The due date for this Board Goals is **31/12/2021**.
 
 ---
 
-## JOB AREA 
+## BLACKBELTS CONSULTING ( JOB AREA ) 
 
 - [ ] Business Profit 65K€
 - [ ] EMGERP Delivery
 - [ ] 2 Freelance contract with Microsoft Partners
-
-## BLACKBELTS CONSULTING
-
 - [ ] Achieve Black Belt ( need 2 approvals by valid and teammates with 10+ years of seniority )
 - [ ] Sharepoint Website
 
@@ -26,7 +23,7 @@ Reading 6 books (at least!)
 - [ ] How to Bullet Plan (Wilkerson Miller, Rachel)
 - [ ] Tools of Titans (Tim Ferriss)
 - [ ] Find your Why (Simon Sinek)
-- [ ] TBD
+- [ ] Mack's PAT Manual
 - [ ] TBD
 - [ ] TBD
 
@@ -61,6 +58,28 @@ Reading 6 books (at least!)
 - [ ] Competition 2
 - [ ] Competition 3
 - [ ] 5 private lesson with Max
+- [ ] Obtain 1 stripe on my Blue Belt
+
+## JULIAN (My Son)
+
+- [ ] Baptism
+- [ ] Brazilian JuJitsu Baby Class
+- [ ] 2 Spring Mountain excurions
+- [ ] 2 Summer Mountain excurions
+- [ ] 2 Outumn Mountain excurions
+- [ ] 2 Winter Mountain excurions
+
+## MONEY
+
+- [ ] +20K€ on Forex account (at least)
+- [ ] +20% on ETF
+- [ ] Initialize NinjaTrader account for PAT Trading
+
+## SPIRITUALITY
+
+- [ ] Meditate 10 minutes a day
+- [ ] EFT Tecnique 1 time a week
+- [ ] PNL Ancor 1 time a day
 
 ## Friendship 2 👨‍💻 ![](https://img.shields.io/badge/progress-50%25-yellow.svg)
 
