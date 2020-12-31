@@ -2,11 +2,16 @@ The due date for this Board Goals is **31/12/2021**.
 
 ---
 
-## JOB AREA ![]
+## JOB AREA 
 
 - [ ] Business Profit 65K€
 - [ ] EMGERP Delivery
 - [ ] 2 Freelance contract with Microsoft Partners
+
+## BLACKBELTS CONSULTING
+
+- [ ] Achieve Black Belt ( need 2 approvals by valid and teammates with 10+ years of seniority )
+- [ ] Sharepoint Website
 
 ## TRAINING (PROFESSIONAL)
 
@@ -25,7 +30,37 @@ Reading 6 books (at least!)
 - [ ] TBD
 - [ ] TBD
 
-## TRAINING (PERSONAL)
+## HEALT
+
+- [ ] Reaching 75 Kg by May 2021
+- [ ] Intermitting fasting 3 times weekly
+- [ ] Nose Operation
+
+## SPIRITUALITY
+
+- [ ] Meditate 10 minutes a day
+
+## HOME
+
+- [ ] Implement Summer Dehor
+- [ ] Adopt a Dog
+
+## FAMILY
+
+- [ ] Spent 1 month in Riccione (Smartworking)
+- [ ] Second Child
+- [ ] Family Barbecues
+
+## FRIENDSHIP
+
+- [ ] Barbecue with Simone Ubbiali Family in Dehor ( see above )
+
+## BRAZILIAN JUJITSU
+
+- [ ] Competition 1
+- [ ] Competition 2
+- [ ] Competition 3
+- [ ] 5 private lesson with Max
 
 ## Friendship 2 👨‍💻 ![](https://img.shields.io/badge/progress-50%25-yellow.svg)
 
