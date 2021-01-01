@@ -7,35 +7,41 @@ The due date for this Board Goals is **31/12/2021**.
 - [ ] Business Profit 65K€
 - [ ] EMGERP Delivery
 - [ ] 2 Freelance contract with Microsoft Partners
-- [ ] Achieve Black Belt ( need 2 approvals by valid and teammates with 10+ years of seniority )
+- [ ] Achieve Black Belt ( need 2 approvals by valid teammates with 10+ years of seniority )
 - [ ] Sharepoint Website
+- [ ] Second novice (White Belt)
+- [ ] Hand on the wall HRD Graduation
 
 ## TRAINING (PROFESSIONAL)
 
 - [ ] 1 Microsoft certification Exam
 - [ ] Sharepoint Learning & Practice
-- [ ] GIT / DevOps Learning & Practice
+- [ ] GIT Learning & Practice
+- [ ] DevOpp Learning & Practice
 
-## TRAINING (PERSONAL)
+## PERSONAL GROW
 
 Reading 6 books (at least!)
 
 - [ ] How to Bullet Plan (Wilkerson Miller, Rachel)
 - [ ] Tools of Titans (Tim Ferriss)
 - [ ] Find your Why (Simon Sinek)
-- [ ] Mack's PAT Manual
+- [ ] Mack's PAT Manual (Mack)
+- [ ] The Wim Hof Method (Wim Hof)
 - [ ] TBD
-- [ ] TBD
+
+Refresh HRD Manual Course
+
+- [ ] Emotional Fitness
+- [ ] Leadership Seminar
+- [ ] Eagles
+- [ ] Power Seminar
 
 ## HEALT
 
-- [ ] Reaching 75 Kg by May 2021
+- [ ] Reaching 75 Kg by May 2021 ( -7kg !!! )
 - [ ] Intermitting fasting 3 times weekly
 - [ ] Nose Operation
-
-## SPIRITUALITY
-
-- [ ] Meditate 10 minutes a day
 
 ## HOME
 
@@ -51,6 +57,13 @@ Reading 6 books (at least!)
 ## FRIENDSHIP
 
 - [ ] Barbecue with Simone Ubbiali Family in Dehor ( see above )
+- [ ] Barbecue 
+- [ ] Barbecue 
+- [ ] Barbecue 
+- [ ] Barbecue 
+- [ ] Barbecue 
+- [ ] Barbecue 
+- [ ] ... and Barbecue 
 
 ## BRAZILIAN JUJITSU
 
@@ -73,7 +86,7 @@ Reading 6 books (at least!)
 
 - [ ] +20K€ on Forex account (at least)
 - [ ] +20% on ETF
-- [ ] Initialize NinjaTrader account for PAT Trading
+- [ ] 1 Scalp a day with PAT
 
 ## SPIRITUALITY
 
