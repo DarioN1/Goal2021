@@ -19,7 +19,7 @@ The due date for this Board Goals is **31/12/2021**.
 - [ ] GIT Learning & Practice
 - [ ] DevOpp Learning & Practice
 
-## PERSONAL GROW
+## PERSONAL GROWTH
 
 Reading 6 books (at least!)
 
@@ -28,7 +28,7 @@ Reading 6 books (at least!)
 - [ ] Find your Why (Simon Sinek)
 - [ ] Mack's PAT Manual (Mack)
 - [ ] The Wim Hof Method (Wim Hof)
-- [ ] TBD
+- [ ] The 5am Club (Robin Sharma) 
 
 Refresh HRD Manual Course
 
@@ -48,11 +48,17 @@ Refresh HRD Manual Course
 - [ ] Implement Summer Dehor
 - [ ] Adopt a Dog
 
+## PERSONAL HOME GYM
+
+- [ ] Implement Pulley
+- [ ] Stick 20 photos on the Wall
+- [ ] Stick 3 Poster on the Wall
+
 ## FAMILY
 
-- [ ] Spent 1 month in Riccione (Smartworking)
+- [ ] Spent 2 month in Riccione (Smartworking)
 - [ ] Second Child
-- [ ] Family Barbecues
+- [ ] 10 Family Barbecues
 
 ## FRIENDSHIP
 
@@ -70,7 +76,7 @@ Refresh HRD Manual Course
 - [ ] Competition 1
 - [ ] Competition 2
 - [ ] Competition 3
-- [ ] 5 private lesson with Max
+- [ ] 5 private lesson with my master (MAX)
 - [ ] Obtain 1 stripe on my Blue Belt
 
 ## JULIAN (My Son)
@@ -86,7 +92,8 @@ Refresh HRD Manual Course
 
 - [ ] +20K€ on Forex account (at least)
 - [ ] +20% on ETF
-- [ ] 1 Scalp a day with PAT
+- [ ] Real NinjaTrader8 Account
+- [ ] 1 Scalp a day
 
 ## SPIRITUALITY
 
