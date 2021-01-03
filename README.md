@@ -4,6 +4,8 @@ The due date for this Board Goals is **31/12/2021**.
 
 ## TRAINING (PROFESSIONAL)
 
+![Training Professional](https://github.com/DarioN1/Goals2021/blob/main/Content/its-learning-time.jpg)
+
 - [ ] 1 Microsoft certification Exam
 - [ ] Sharepoint Learning & Practice
 - [ ] GIT Learning & Practice
