@@ -2,17 +2,6 @@ The due date for this Board Goals is **31/12/2021**.
  
 # 2021 GOALS
 
-## BLACKBELTS CONSULTING ( JOB AREA ) 
-
-- [ ] Business Profit 65K€
-- [ ] EMGERP Delivery
-- [ ] 2 Freelance contract with Microsoft Partners
-- [ ] Achieve Black Belt ( need 2 approvals by valid teammates with 10+ years of seniority )
-- [ ] Sharepoint Website (Intranet)
-- [ ] Second novice (White Belt)
-- [ ] Hand on the wall HRD Graduation
-- [ ] Define Graduation Rules
-
 ## TRAINING (PROFESSIONAL)
 
 - [ ] 1 Microsoft certification Exam
@@ -108,6 +97,17 @@ Reaching 75 Kg by May 2021, I want my sixpack back ( -7kg, starting from 82.5kg 
 - [ ] 2 Summer Mountain excurions
 - [ ] 2 Outumn Mountain excurions
 - [ ] 2 Winter Mountain excurions
+
+## BLACKBELTS CONSULTING ( JOB AREA ) 
+
+- [ ] Business Profit 65K€
+- [ ] EMGERP Delivery
+- [ ] 2 Freelance contract with Microsoft Partners
+- [ ] Achieve Black Belt ( need 2 approvals by valid teammates with 10+ years of seniority )
+- [ ] Sharepoint Website (Intranet)
+- [ ] Second novice (White Belt)
+- [ ] Hand on the wall HRD Graduation
+- [ ] Define Graduation Rules
 
 ## MONEY
 
