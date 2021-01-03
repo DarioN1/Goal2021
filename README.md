@@ -70,6 +70,8 @@ Reaching 75 Kg by May 2021, I want my sixpack back ( -7kg, starting from 82.5kg 
 
 ## FRIENDSHIP
 
+(actually I'm a "lone wolf", I have never given much importance to friendship)
+
 - [ ] Barbecue with Simone Ubbiali Family in Dehor ( see above )
 - [ ] Barbecue 
 - [ ] Barbecue 
