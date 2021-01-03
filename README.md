@@ -35,7 +35,7 @@ Reaching 75 Kg by May 2021, I want my sixpack back ( -7kg, starting from 82.5kg 
 - [ ] -1 kg by end of March ( 77 kg )
 - [ ] -1 kg by end of April ( 76 kg )
 - [ ] -1 kg by end of May ( 75 kg )
-- [ ] Nose Operation
+- [ ] Nose Operation ( I can't breath !!! )
 
 ## GOOD HABITS
 
