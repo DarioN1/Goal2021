@@ -18,7 +18,7 @@ The due date for this Board Goals is **31/12/2021**.
 - [ ] 1 Microsoft certification Exam
 - [ ] Sharepoint Learning & Practice
 - [ ] GIT Learning & Practice
-- [ ] DevOpp Learning & Practice
+- [ ] MS DevOps Learning & Practice
 
 ## PERSONAL GROWTH
 
