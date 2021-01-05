@@ -17,7 +17,7 @@ The due date for this Board Goals is **31/12/2021**.
 
 Reading 6 books (at least!)
 
-- [ ] How to Bullet Plan (Wilkerson Miller, Rachel)
+- [x] How to Bullet Plan (Wilkerson Miller, Rachel)
 - [ ] Tools of Titans (Tim Ferriss)
 - [ ] Find your Why (Simon Sinek)
 - [ ] Mack's PAT Manual (Mack)
@@ -31,7 +31,7 @@ Refresh HRD Manual Course
 - [ ] Eagles
 - [ ] Power Seminar
 
-## HEALT
+## HEALTH
 
 ![Health](https://github.com/DarioN1/Goals2021/blob/main/Content/health.png)
 
