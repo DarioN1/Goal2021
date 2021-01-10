@@ -18,12 +18,12 @@ The due date for this Board Goals is **31/12/2021**.
 
 Reading 6 books (at least!)
 
-- [x] How to Bullet Plan (Wilkerson Miller, Rachel)
+- [x] How to Bullet Plan (Wilkerson Miller, Rachel) ![](https://img.shields.io/badge/progress-100%25-green.svg)
 - [ ] Tools of Titans (Tim Ferriss)
 - [ ] Find your Why (Simon Sinek)
-- [ ] Mack's PAT Manual (Mack)
-- [x] The Wim Hof Method (Wim Hof)
-- [ ] The 5am Club (Robin Sharma) 
+- [ ] Mack's PAT Manual (Mack) 
+- [x] The Wim Hof Method (Wim Hof) ![](https://img.shields.io/badge/progress-100%25-green.svg)
+- [ ] The 5am Club (Robin Sharma) ![](https://img.shields.io/badge/progress-1%25-yellow.svg)
 
 Refresh HRD Manual Course
 
