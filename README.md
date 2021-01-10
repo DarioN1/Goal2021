@@ -61,7 +61,7 @@ Reaching 75 Kg by May 2021, I want my sixpack back ( -7kg, starting from 82.5kg 
 
 ![Home](https://github.com/DarioN1/Goals2021/blob/main/Content/home.png)
 
-- [ ] Implement Summer Dehor
+- [ ] Implement Summer Dehor ![](https://img.shields.io/badge/progress-3%25-yellow.svg)
 - [ ] Adopt a Dog ( to be evaluated )
 - [ ] Implement Tatami for Brazilian JuJitsu traning at home
 
