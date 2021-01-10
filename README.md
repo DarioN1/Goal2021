@@ -14,6 +14,7 @@ The due date for this Board Goals is **31/12/2021**.
 ## PERSONAL GROWTH
 
 ![Personal Growth](https://github.com/DarioN1/Goals2021/blob/main/Content/6777b606601818c1140a561de294d768.jpg)
+![firewalker](https://github.com/DarioN1/Goals2021/blob/main/Content/firewalker.jpg)
 
 Reading 6 books (at least!)
 
