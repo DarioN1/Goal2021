@@ -21,7 +21,7 @@ Reading 6 books (at least!)
 - [ ] Tools of Titans (Tim Ferriss)
 - [ ] Find your Why (Simon Sinek)
 - [ ] Mack's PAT Manual (Mack)
-- [ ] The Wim Hof Method (Wim Hof)
+- [x] The Wim Hof Method (Wim Hof)
 - [ ] The 5am Club (Robin Sharma) 
 
 Refresh HRD Manual Course
@@ -90,6 +90,8 @@ Reaching 75 Kg by May 2021, I want my sixpack back ( -7kg, starting from 82.5kg 
 - [ ] ... and Barbecue 
 
 ## BRAZILIAN JUJITSU
+
+![bjj](https://github.com/DarioN1/Goals2021/blob/main/Content/bjj.jpg)
 
 - [ ] Competition 1
 - [ ] Competition 2
