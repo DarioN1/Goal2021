@@ -20,10 +20,10 @@ Reading 6 books (at least!)
 
 - [x] How to Bullet Plan (Wilkerson Miller, Rachel) ![](https://img.shields.io/badge/progress-100%25-green.svg)
 - [ ] Tools of Titans (Tim Ferriss)
-- [ ] Find your Why (Simon Sinek)
+- [ ] Find your Why (Simon Sinek)  ![](https://img.shields.io/badge/progress-100%15-green.svg)
 - [ ] Mack's PAT Manual (Mack) 
-- [x] The Wim Hof Method (Wim Hof) ![](https://img.shields.io/badge/progress-100%25-green.svg)
-- [ ] The 5am Club (Robin Sharma) ![](https://img.shields.io/badge/progress-1%25-yellow.svg)
+- [x] The Wim Hof Method (Wim Hof)
+- [x] The 5am Club (Robin Sharma)
 
 Refresh HRD Manual Course
 
@@ -81,7 +81,6 @@ Reaching 75 Kg by May 2021, I want my sixpack back ( -7kg, starting from 82.5kg 
 
 (actually I'm a "lone wolf", I have never given much importance to friendship)
 
-- [ ] Barbecue with Simone Ubbiali Family in Dehor ( see above )
 - [ ] Barbecue 
 - [ ] Barbecue 
 - [ ] Barbecue 
@@ -122,6 +121,7 @@ Reaching 75 Kg by May 2021, I want my sixpack back ( -7kg, starting from 82.5kg 
 - [ ] Second novice (White Belt)
 - [ ] Hand on the wall HRD Graduation
 - [ ] Define Graduation Rules
+- [ ] Implement Standing Desk
 
 ## MONEY
 
